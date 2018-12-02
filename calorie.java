@@ -9,6 +9,7 @@ public class calorie {
       String breakfast = TextIO.getln();
       System.out.printf("You have entered %s%n", breakfast);
       System.out.printf("You have entered %s%n", breakfast);
+      System.out.printf("You have entered %s%n", breakfast);
 
     }
 }
