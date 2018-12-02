@@ -10,5 +10,3 @@ public class calorie {
       System.out.printf("You have entered %s%n", breakfast);
     }
 }
-
-sagfhjadgfhs
