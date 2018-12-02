@@ -8,8 +8,7 @@ public class calorie {
       System.out.println("Please enter an item for breakfast: ");
       String breakfast = TextIO.getln();
       System.out.printf("You have entered %s%n", breakfast);
-      System.out.printf("You have entered %s%n", breakfast);
-      System.out.printf("You have entered %s%n", breakfast);
+    
 
     }
 }
