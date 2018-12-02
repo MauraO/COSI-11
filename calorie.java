@@ -58,13 +58,14 @@ public class calorie {
 
     public static void cal_stats(int total_calories){
 
+      System.out.println();
       int cals_left;
       if(total_calories > 1500){
         System.out.printf("You have exceeded your calorie limit!");
       }
       else if(total_calories < 1500){
         cals_left = 1500 - total_calories;
-        System.out.printf("You have %d calories left. %n", cals_left);
+        System.out.printf("You have %d calories left for dinner. %n", cals_left);
       }
 
 
